@@ -6,6 +6,7 @@ This repository contains implementations of various CPU scheduling algorithms. T
 Currently, the repository includes the following algorithm:
 
 First-Come, First-Served (FCFS): This is the simplest scheduling algorithm that executes processes in the order they arrive.
+
 Shortest Job First(SJF)
 
 ## Assumptions
